@@ -1,0 +1,71 @@
+/* Styles for validation helpers
+-----------------------------------------------------------*/
+.field-validation-error
+{
+    color: #ff0000;
+}
+
+.field-validation-valid
+{
+    display: none;
+}
+
+.input-validation-error
+{
+    border: 1px solid #ff0000;
+    background-color: #ffeeee;
+}
+
+.validation-summary-errors
+{
+    /*font-weight: bold;*/
+    color: #ff0000;
+}
+
+.validation-summary-valid
+{
+    display: none;
+}
+/***************************************/
+body { font-size:12px; font-family: Verdana,ËÎÌו,Arial; }
+h2 { padding:15px; }
+
+input, textarea { padding:4px; border:1px solid; border-color:#999 #CCC #CCC; }
+input:focus, textarea:focus { background-color:#FFFFE1; }
+input:blur, textarea:blur { background-color:#FFF; }
+table td { padding-bottom:10px; padding-left:10px; }
+
+.button { height:25px; line-height:25px; border:1px solid; 
+        border-color:#CCC #999 #999 #CCC; 
+        background:url(images/bg.png) repeat-x -792px -150px;
+        cursor:pointer; }
+.button:hover { border:1px solid #666; }
+.required { color:Red; }
+
+.form-title { text-align:right; }
+.form-textarea-title { vertical-align:top; text-align:right; }
+.form-select { }
+.form-input { width:150px; }
+.form-textarea { width:300px; height:150px; }
+
+/*admin.Master*/
+.layout { }
+.header { height:50px; }
+.container { overflow:hidden; zoom:1; }
+.navigator { float:left; width:100px; padding:10px 10px 10px 20px; }
+.navigator li { line-height:25px; }
+.main { margin-left:150px; vertical-align:top; }
+.footer { position:absolute; bottom:0; padding:5px; }
+.main-frame { width:99%; border:none; }
+
+.t1 { padding-left:2em; background:url(images/elbow-end.gif) no-repeat 5px 0; }
+.t2 { padding-left:3em; background:url(images/elbow-end.gif) no-repeat 15px 0; }
+.t3 { padding-left:4em; background:url(images/elbow-end.gif) no-repeat 25px 0; }
+.t4 { padding-left:5em; background:url(images/elbow-end.gif) no-repeat 35px 0; }
+.t5 { padding-left:6em; background:url(images/elbow-end.gif) no-repeat 45px 0; }
+
+.clear { overflow:hidden; zoom:1; }
+.float-left { float:left; }
+.float-right { float:right; }
+.chk input { float:left; margin-top:1px; }
+.chk label { float:left; padding-left:5px; }

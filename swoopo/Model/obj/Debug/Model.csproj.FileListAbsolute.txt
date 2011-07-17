@@ -1,0 +1,45 @@
+E:\Tyang\NetProjects\swoopo\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Swoopo.Model.dll
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Swoopo.Model.pdb
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+E:\Tyang\NetProjects\swoopo\Model\obj\Debug\Swoopo.Model.dll
+E:\Tyang\NetProjects\swoopo\Model\obj\Debug\Swoopo.Model.pdb
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.dll
+E:\Tyang\NetProjects\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Swoopo.Model.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Swoopo.Model.pdb
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+F:\Projects\Web Case\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Projects\Web Case\swoopo\swoopo\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Web Case\swoopo\swoopo\Model\obj\Debug\Swoopo.Model.dll
+F:\Projects\Web Case\swoopo\swoopo\Model\obj\Debug\Swoopo.Model.pdb
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Swoopo.Model.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Swoopo.Model.pdb
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.pdb
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.pdb
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+F:\Projects\WebCase\swoopo\swoopo\Model\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+F:\Projects\WebCase\swoopo\swoopo\Model\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\WebCase\swoopo\swoopo\Model\obj\Debug\Swoopo.Model.dll
+F:\Projects\WebCase\swoopo\swoopo\Model\obj\Debug\Swoopo.Model.pdb

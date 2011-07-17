@@ -1,0 +1,41 @@
+﻿<%@ Master Language="C#" Inherits="System.Web.Mvc.ViewMasterPage" %>
+<% string path = HttpRuntime.AppDomainAppVirtualPath; %>
+<!DOCTYPE html>
+<html>
+<head runat="server">
+    <title>
+        <asp:ContentPlaceHolder ID="TitleContent" runat="server" />
+    </title>
+    <link type="text/css" rel="Stylesheet" href="<%= Url.Content("~/Content/reset.css") %>" />
+    <link type="text/css" rel="Stylesheet" href="<%= Url.Content("~/Content/site.css") %>" />
+    <script type="text/javascript" src="<%= Url.Content("~/Scripts/jquery-1.4.2.min.js") %>"></script>
+    <script type="text/javascript" src="<%= Url.Content("~/Content/js/admin-iframe.js") %>"></script>
+    <script type="text/javascript">
+        var SW = {};
+        SW.path = '<%= HttpRuntime.AppDomainAppVirtualPath %>';
+    </script>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server" />
+</head>
+<body class="layout">
+    <div class="header">
+        north region</div>
+    <div class="container">
+        <div title="栏目管理" class="navigator">
+            <ul>
+                <li><a href="<%=path %>/Admin/Category/CategoryList" target="main">产品分类管理</a></li>
+                <li><a href="<%=path %>/Admin/Product/Index" target="main">产品管理</a></li>
+                <li><a href="<%=path %>/Admin/Android/" target="main">机器人管理</a></li>
+                <li><a href="<%=path %>/Admin/User/" target="main">用户管理</a></li>
+                <li><a href="<%=path %>/Admin/Recycle/" target="main">回收站</a></li>
+            </ul>
+        </div>
+        <div class="main">
+            <iframe class="main-frame" name="main" frameborder="0" src="<%=path %>/Admin/Category/CategoryList"
+                style="width:100%;height:100%;"></iframe>
+        </div>
+    </div>
+    <div class="footer">
+        Copyright © 2010 All Rights Reserved.</div>
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server" />
+</body>
+</html>

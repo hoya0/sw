@@ -1,0 +1,15 @@
+E:\Tyang\NetProjects\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.dll
+E:\Tyang\NetProjects\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.pdb
+E:\Tyang\NetProjects\swoopo\ExceptionHandler\obj\Debug\ResolveAssemblyReference.cache
+E:\Tyang\NetProjects\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.dll
+E:\Tyang\NetProjects\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.pdb
+F:\Projects\Web Case\swoopo\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.dll
+F:\Projects\Web Case\swoopo\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.pdb
+F:\Projects\Web Case\swoopo\swoopo\ExceptionHandler\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Web Case\swoopo\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.dll
+F:\Projects\Web Case\swoopo\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.pdb
+F:\Projects\WebCase\swoopo\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.dll
+F:\Projects\WebCase\swoopo\swoopo\ExceptionHandler\bin\Debug\ExceptionHanding.pdb
+F:\Projects\WebCase\swoopo\swoopo\ExceptionHandler\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\WebCase\swoopo\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.dll
+F:\Projects\WebCase\swoopo\swoopo\ExceptionHandler\obj\Debug\ExceptionHanding.pdb

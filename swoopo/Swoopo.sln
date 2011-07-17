@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{134B05B0-FA38-4D31-A0BA-857AFC30EBE8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{998AEFC1-0699-4E49-9054-D97EA527BDDC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{4BF3E99F-1655-418A-841D-7936CA63589A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utils", "Utils\Utils.csproj", "{6A73232A-0D78-43C6-99FC-2D5D0ADB742F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApp", "MvcApp\MvcApp.csproj", "{70F8E848-0FEA-41A5-8950-BC69109146B0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandler", "ExceptionHandler\ExceptionHandler.csproj", "{C792EA63-2D3F-4309-8592-34BC67A9AFF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{134B05B0-FA38-4D31-A0BA-857AFC30EBE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{134B05B0-FA38-4D31-A0BA-857AFC30EBE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{134B05B0-FA38-4D31-A0BA-857AFC30EBE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{134B05B0-FA38-4D31-A0BA-857AFC30EBE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{998AEFC1-0699-4E49-9054-D97EA527BDDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{998AEFC1-0699-4E49-9054-D97EA527BDDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{998AEFC1-0699-4E49-9054-D97EA527BDDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{998AEFC1-0699-4E49-9054-D97EA527BDDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BF3E99F-1655-418A-841D-7936CA63589A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BF3E99F-1655-418A-841D-7936CA63589A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BF3E99F-1655-418A-841D-7936CA63589A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BF3E99F-1655-418A-841D-7936CA63589A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A73232A-0D78-43C6-99FC-2D5D0ADB742F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A73232A-0D78-43C6-99FC-2D5D0ADB742F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A73232A-0D78-43C6-99FC-2D5D0ADB742F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A73232A-0D78-43C6-99FC-2D5D0ADB742F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70F8E848-0FEA-41A5-8950-BC69109146B0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F8E848-0FEA-41A5-8950-BC69109146B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F8E848-0FEA-41A5-8950-BC69109146B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F8E848-0FEA-41A5-8950-BC69109146B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C792EA63-2D3F-4309-8592-34BC67A9AFF9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C792EA63-2D3F-4309-8592-34BC67A9AFF9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C792EA63-2D3F-4309-8592-34BC67A9AFF9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C792EA63-2D3F-4309-8592-34BC67A9AFF9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(SubversionScc) = preSolution
+		Svn-Managed = True
+		Manager = AnkhSVN - Subversion Support for Visual Studio
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,24 @@
+E:\Tyang\NetProjects\swoopo\Utils\obj\Debug\ResolveAssemblyReference.cache
+E:\Tyang\NetProjects\swoopo\Utils\bin\Debug\Utils.dll
+E:\Tyang\NetProjects\swoopo\Utils\bin\Debug\Utils.pdb
+E:\Tyang\NetProjects\swoopo\Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+E:\Tyang\NetProjects\swoopo\Utils\bin\Debug\MIMEParser.dll
+E:\Tyang\NetProjects\swoopo\Utils\bin\Debug\OpenPOP.dll
+E:\Tyang\NetProjects\swoopo\Utils\obj\Debug\Utils.dll
+E:\Tyang\NetProjects\swoopo\Utils\obj\Debug\Utils.pdb
+F:\Projects\Web Case\swoopo\swoopo\Utils\bin\Debug\Utils.dll
+F:\Projects\Web Case\swoopo\swoopo\Utils\bin\Debug\Utils.pdb
+F:\Projects\Web Case\swoopo\swoopo\Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Projects\Web Case\swoopo\swoopo\Utils\bin\Debug\MIMEParser.dll
+F:\Projects\Web Case\swoopo\swoopo\Utils\bin\Debug\OpenPOP.dll
+F:\Projects\Web Case\swoopo\swoopo\Utils\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\Web Case\swoopo\swoopo\Utils\obj\Debug\Utils.dll
+F:\Projects\Web Case\swoopo\swoopo\Utils\obj\Debug\Utils.pdb
+F:\Projects\WebCase\swoopo\swoopo\Utils\bin\Debug\Utils.dll
+F:\Projects\WebCase\swoopo\swoopo\Utils\bin\Debug\Utils.pdb
+F:\Projects\WebCase\swoopo\swoopo\Utils\bin\Debug\ICSharpCode.SharpZipLib.dll
+F:\Projects\WebCase\swoopo\swoopo\Utils\bin\Debug\MIMEParser.dll
+F:\Projects\WebCase\swoopo\swoopo\Utils\bin\Debug\OpenPOP.dll
+F:\Projects\WebCase\swoopo\swoopo\Utils\obj\Debug\ResolveAssemblyReference.cache
+F:\Projects\WebCase\swoopo\swoopo\Utils\obj\Debug\Utils.dll
+F:\Projects\WebCase\swoopo\swoopo\Utils\obj\Debug\Utils.pdb

@@ -1,0 +1,5 @@
+E:\Tyang\NetProjects\swoopo\ExceptionHanding\bin\Debug\ExceptionHanding.dll
+E:\Tyang\NetProjects\swoopo\ExceptionHanding\bin\Debug\ExceptionHanding.pdb
+E:\Tyang\NetProjects\swoopo\ExceptionHanding\obj\Debug\ResolveAssemblyReference.cache
+E:\Tyang\NetProjects\swoopo\ExceptionHanding\obj\Debug\ExceptionHanding.dll
+E:\Tyang\NetProjects\swoopo\ExceptionHanding\obj\Debug\ExceptionHanding.pdb
